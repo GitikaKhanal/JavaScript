@@ -1,5 +1,5 @@
 //let score =0 // output is 0
-//let score = undefined //output is non
+//let score = undefined //output is nan
 let score = "32"
 console.log(typeof score);
 console.log(typeof (score));
