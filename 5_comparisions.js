@@ -15,7 +15,7 @@ console.log(null>=0);   //true
 // undefined also false comparing it with number
 
 //===
-console.log("2"=== 2); // false
+console.log("2"=== 2);  // false
 
 
 
