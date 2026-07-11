@@ -1,8 +1,8 @@
 const score = 400
-console.log(score);
+console.log(score); //output-> 400
 
-const balance = new Number(100)
-console.log(balance);
+const balance = new Number(100) 
+console.log(balance);   //output -> [Number: 100]
 
 console.log(balance.toString().length); //output-> 3
 console.log(balance.toFixed(2));    //output-> 100.00, after decimal value
